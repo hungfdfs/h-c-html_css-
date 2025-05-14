@@ -38,6 +38,10 @@ hr {
   border-color: brown;
 }
 
+.bottom-line {
+  margin-top: 25px;
+}
+
 .established {
   font-style: italic;
 }
