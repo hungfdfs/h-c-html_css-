@@ -26,5 +26,5 @@ p {
 
 .price {
   text-align: right;
-  width: 24%;
+  width: 24%; /*25%*/
 }
