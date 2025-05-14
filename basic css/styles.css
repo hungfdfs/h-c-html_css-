@@ -13,6 +13,8 @@ p {
   background-color: burlywood;
   margin-left: auto;
   margin-right: auto;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .item p {
@@ -27,5 +29,5 @@ p {
 
 .price {
   text-align: right;
-  width: 24%; /*25%*/
+  width: 24%; /* test la 25%*/
 }
