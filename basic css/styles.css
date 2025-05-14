@@ -23,6 +23,10 @@ h2 {
   font-family: Impact, serif;
 }
 
+.established {
+  font-style: italic;
+}
+
 .item p {
   display: inline-block;
 }
